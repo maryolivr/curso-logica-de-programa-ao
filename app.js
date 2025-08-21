@@ -1,2 +1,2 @@
-nome = prompt('Insira seu nome:');
-alert(`Boas vindas ${nome}`);
+idade = prompt('Insira sua idade:');
+alert(`Boas vindas ${idade}`);
